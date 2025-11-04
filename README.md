@@ -4,7 +4,7 @@
 
 # Register no.: 212223060014
 
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
+## Aim: To perform the Exploration of Prompting Techniques for Video Generation
 
 
 ## 💻 Algorithm: AI Video Prompt Mastery
